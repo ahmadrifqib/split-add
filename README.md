@@ -9,14 +9,14 @@ npm install split-add
 ### Example
 
 ```javascript
-const splitAdd = require("split-add");
+import numberAdd from "split-add";
 
-const result = splitAdd.add(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
+const result = numberAdd(1234);
 console.log(result);
 ```
 
 ### Output
 
 ```javascript
-15;
+10;
 ```
