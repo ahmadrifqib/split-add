@@ -1,0 +1,25 @@
+{
+	"name": "split-add",
+	"version": "1.0.0",
+	"description": "a package for performing incremental calculations on results",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ahmadrifqib/split-add.git"
+	},
+	"keywords": [
+		"split",
+		"add",
+		"map",
+		"reduce"
+	],
+	"author": "Ahmad Rifqi",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ahmadrifqib/split-add/issues"
+	},
+	"homepage": "https://github.com/ahmadrifqib/split-add#readme"
+}
