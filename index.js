@@ -5,4 +5,4 @@ function add(number) {
 		.reduce((a, b) => a + b);
 }
 
-module.export = add;
+export default add;
