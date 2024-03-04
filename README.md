@@ -9,10 +9,10 @@ npm install split-add
 ### Example
 
 ```javascript
-import numberAdd from "split-add";
+import splitAdd from "split-add";
 
-const result = numberAdd(1234);
-console.log(result);
+const result = splitAdd(1234);
+console.log(result); // 10
 ```
 
 ### Output
