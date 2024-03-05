@@ -3,7 +3,7 @@
  * @returns {number} - The total number added up.
  */
 
-export default function splitAdd(number) {
+export function splitAdd(number) {
 	return (
 		// change the input number to string
 		String(number)
@@ -22,7 +22,7 @@ export default function splitAdd(number) {
  * @returns {number} - The total number mutliplied up.
  */
 
-export default function splitMultiply(number) {
+export function splitMultiply(number) {
 	return (
 		// change the input number to string
 		String(number)

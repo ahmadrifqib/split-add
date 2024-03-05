@@ -11,15 +11,19 @@ npm install split-add
 
 ```javascript
 // import the package
-import splitAdd from "split-add";
+import { splitAdd, splitMultiply } from "split-add";
 
 // call the function
-const result = splitAdd(1234);
-console.log(result); // 10
+number = 1234
+const resultAdd = splitAdd(number);
+const resultMultiply = splitMultiply(number)
+console.log(resultAdd); // 10
+console.log(resultAdd); // 24
 ```
 
 ### Output
 
 ```javascript
 10;
+24;
 ```
