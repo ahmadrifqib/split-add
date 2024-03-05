@@ -22,7 +22,7 @@ export default function splitAdd(number) {
  * @returns {number} - The total number mutliplied up.
  */
 
-export default function splitAdd(number) {
+export default function splitMultiply(number) {
 	return (
 		// change the input number to string
 		String(number)
