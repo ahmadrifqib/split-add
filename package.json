@@ -1,6 +1,6 @@
 {
 	"name": "split-add",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "a package for performing incremental calculations on results",
 	"main": "index.js",
 	"type": "module",
@@ -17,7 +17,7 @@
 		"map",
 		"reduce"
 	],
-	"author": "Ahmad Rifqi",
+	"author": ["Ahmad Rifqi", "Nur Muhammad Luthfi"],
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/ahmadrifqib/split-add/issues"
