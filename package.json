@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ahmadrifqib/split-add.git"
+		"url": "https://github.com/ahmadrifqib/split-add.git"
 	},
 	"keywords": [
 		"split",
@@ -17,7 +17,7 @@
 		"map",
 		"reduce"
 	],
-	"author": ["Ahmad Rifqi", "Nur Muhammad Luthfi"],
+	"author": "Ahmad Rifqi, NM Luthfi",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/ahmadrifqib/split-add/issues"
