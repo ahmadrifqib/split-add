@@ -1,6 +1,6 @@
 {
 	"name": "split-add",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "a package for performing incremental calculations on results",
 	"main": "index.js",
 	"type": "module",
