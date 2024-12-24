@@ -27,3 +27,5 @@ console.log(resultAdd); // 24
 10;
 24;
 ```
+
+2024
